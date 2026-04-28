@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Sushreesa Bhol
 
-<!--
-**Sushreesa2005Bhol/Sushreesa2005Bhol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA 2nd Year @ MPC Autonomous College  
+💻 Learning Python  
+🤖 Exploring AI/ML  
+🔐 Studying Cybersecurity  
 
-Here are some ideas to get you started:
+## 🚧 Current Focus
+- Building real-world projects  
+- Learning AI & ML  
+- Improving coding skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Sushreesa2005Bhol&show_icons=true&theme=tokyonight)
+
+## 🎯 Goals (2026)
+- Build 5+ real-world projects  
+- Learn AI/ML fundamentals  
+- Explore cybersecurity tools
+
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://in.linkedin.com/in/sushreesa-bhol-60078031a)
+
+---
+
+✨ *Focused on growth and consistency.*
